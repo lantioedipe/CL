@@ -1,4 +1,1 @@
-CL
-==
-
-Common Lisp 
+Just an initial commit
